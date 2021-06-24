@@ -1,0 +1,9 @@
+// inicio
+
+const algo = function () {
+	console.log("hola mundo");
+}
+
+algo();
+
+// fin

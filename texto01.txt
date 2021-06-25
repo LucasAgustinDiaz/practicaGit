@@ -7,3 +7,4 @@ const algo = function () {
 algo();
 
 // fin
+// comentario de Johan

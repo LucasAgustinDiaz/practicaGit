@@ -1,0 +1,9 @@
+// inicio
+
+const textoCuatro = function () {
+	console.log("hola desde texto 4");
+}
+
+textoCuatro();
+
+// fin
